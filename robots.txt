@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eechainei.rxdb.info/sitemap.xml
